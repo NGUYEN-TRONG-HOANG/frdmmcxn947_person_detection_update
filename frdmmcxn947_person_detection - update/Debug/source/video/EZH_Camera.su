@@ -1,0 +1,4 @@
+../source/video/EZH_Camera.c:47:13:ezh_camera_callback	0	static
+../source/video/EZH_Camera.c:56:6:ezh_start	16	static
+../source/video/EZH_Camera.c:92:6:ezh_camera_display_callback	24	static
+../source/video/EZH_Camera.c:110:6:PLU_DriverIRQHandler	24	static

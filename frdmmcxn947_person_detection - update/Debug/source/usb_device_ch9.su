@@ -1,0 +1,11 @@
+../source/usb_device_ch9.c:860:21:USB_DeviceCh9SynchFrame	16	static
+../source/usb_device_ch9.c:119:21:USB_DeviceCh9GetStatus	40	static
+../source/usb_device_ch9.c:465:21:USB_DeviceCh9GetDescriptor	40	static
+../source/usb_device_ch9.c:232:21:USB_DeviceCh9SetClearFeature	24	static
+../source/usb_device_ch9.c:660:21:USB_DeviceCh9SetConfiguration	24	static
+../source/usb_device_ch9.c:386:21:USB_DeviceCh9SetAddress	24	static
+../source/usb_device_ch9.c:612:21:USB_DeviceCh9GetConfiguration	32	static
+../source/usb_device_ch9.c:743:21:USB_DeviceCh9GetInterface	32	static
+../source/usb_device_ch9.c:796:21:USB_DeviceCh9SetInterface	24	static
+../source/usb_device_ch9.c:984:21:USB_DeviceControlCallback	56	static
+../source/usb_device_ch9.c:1234:14:USB_DeviceControlPipeInit	40	static

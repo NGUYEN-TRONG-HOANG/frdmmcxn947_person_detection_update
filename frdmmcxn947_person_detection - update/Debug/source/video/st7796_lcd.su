@@ -1,0 +1,8 @@
+../source/video/st7796_lcd.c:54:14:_st7796_init_seq	16	static
+../source/video/st7796_lcd.c:68:14:_st7796_window	24	static
+../source/video/st7796_lcd.c:119:14:_st7796_reset	0	static
+../source/video/st7796_lcd.c:133:14:st7796_lcd_load	32	static
+../source/video/st7796_lcd.c:173:14:st7796_lcd_sleep	16	static
+../source/video/st7796_lcd.c:179:14:st7796_lcd_display	24	static
+../source/video/st7796_lcd.c:193:14:st7796_lcd_config	24	static
+../source/video/st7796_lcd.c:123:14:st7796_lcd_init	24	static

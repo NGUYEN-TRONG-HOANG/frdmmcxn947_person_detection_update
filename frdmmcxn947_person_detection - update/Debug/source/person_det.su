@@ -1,0 +1,7 @@
+../source/person_det.cpp:58:6:void draw_rect_on_slice_buffer(uint16_t*, int, int, int, ODResult_t*, int, int)	56	static
+../source/person_det.cpp:106:6:void Rgb565StridedToBgr888(const uint16_t*, int, int, int, int, int, uint8_t*, int, uint8_t)	80	static
+../source/person_det.cpp:153:6:void Rgb565StridedToRgb888(const uint16_t*, int, int, int, int, int, uint8_t*, int, uint8_t)	80	static
+../source/person_det.cpp:202:6:void ezh_copy_slice_to_model_input(uint32_t, uint32_t, uint32_t, uint32_t, uint32_t)	112	static
+../source/person_det.cpp:236:14:const char* GetBriefString()	16	static
+../source/person_det.cpp:246:6:void MODEL_ODPrintResult(const ODResult_t*, int)	48	static
+../source/person_det.cpp:255:6:void person_det()	216	static

@@ -1,0 +1,3 @@
+../source/video/display.c:5:6:display_init	0	static
+../source/video/display.c:10:6:display_show_bg_image	0	static
+../source/video/display.c:15:6:display_show_slice	24	static

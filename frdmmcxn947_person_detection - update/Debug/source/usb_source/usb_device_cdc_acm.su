@@ -1,0 +1,9 @@
+../source/usb_source/usb_device_cdc_acm.c:92:21:USB_DeviceCdcAcmInterruptIn	0	static
+../source/usb_source/usb_device_cdc_acm.c:126:21:USB_DeviceCdcAcmBulkIn	0	static
+../source/usb_source/usb_device_cdc_acm.c:161:21:USB_DeviceCdcAcmBulkOut	0	static
+../source/usb_source/usb_device_cdc_acm.c:194:21:USB_DeviceCdcAcmEndpointsInit	80	static
+../source/usb_source/usb_device_cdc_acm.c:373:14:USB_DeviceCdcAcmEvent	48	static
+../source/usb_source/usb_device_cdc_acm.c:754:14:USB_DeviceCdcAcmInit	24	static
+../source/usb_source/usb_device_cdc_acm.c:817:14:USB_DeviceCdcAcmDeinit	16	static
+../source/usb_source/usb_device_cdc_acm.c:871:14:USB_DeviceCdcAcmSend	16	static
+../source/usb_source/usb_device_cdc_acm.c:933:14:USB_DeviceCdcAcmRecv	24	static

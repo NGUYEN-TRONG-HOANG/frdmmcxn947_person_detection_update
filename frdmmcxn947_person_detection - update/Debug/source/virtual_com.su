@@ -1,0 +1,10 @@
+../source/virtual_com.c:219:14:USB_DeviceCdcVcomCallback	8	static
+../source/virtual_com.c:482:14:USB_DeviceCallback	16	static
+../source/virtual_com.c:147:6:USB_DeviceClockInit	24	static
+../source/virtual_com.c:201:6:USB_DeviceIsrEnable	0	static
+../source/virtual_com.c:747:6:USB_VIDEO_CDC_Init	8	static
+../source/virtual_com.c:752:6:USB_VIDEO_CDC_Task	24	static
+../source/virtual_com.c:757:6:USB_VIDEO_CDC_IsReady	0	static
+../source/virtual_com.c:762:6:USB_VIDEO_CDC_CanSend	0	static
+../source/virtual_com.c:767:6:USB_VIDEO_CDC_Send	24	static
+../source/virtual_com.c:797:6:USB1_HS_IRQHandler	0	static

@@ -1,0 +1,4 @@
+../source/usb_video_stream.c:91:6:USB_VIDEO_STREAM_Init	8	static
+../source/usb_video_stream.c:102:6:USB_VIDEO_STREAM_EnqueueSlice	32	static
+../source/usb_video_stream.c:156:6:USB_VIDEO_STREAM_Service	24	static
+../source/usb_video_stream.c:161:6:USB_VIDEO_STREAM_Task	24	static

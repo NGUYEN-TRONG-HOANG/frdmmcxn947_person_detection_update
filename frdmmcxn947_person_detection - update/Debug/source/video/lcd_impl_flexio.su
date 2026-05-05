@@ -1,0 +1,7 @@
+../source/video/lcd_impl_flexio.c:154:13:lcd_impl_set_cs_pin	0	static
+../source/video/lcd_impl_flexio.c:162:13:lcd_impl_set_rs_pin	0	static
+../source/video/lcd_impl_flexio.c:171:13:lcd_impl_dma_callback	0	static
+../source/video/lcd_impl_flexio.c:46:6:lcd_impl_init	96	static
+../source/video/lcd_impl_flexio.c:92:14:lcd_impl_reset	16	static
+../source/video/lcd_impl_flexio.c:102:14:lcd_impl_write_cmd	32	static
+../source/video/lcd_impl_flexio.c:124:14:lcd_impl_write_data	112	static
